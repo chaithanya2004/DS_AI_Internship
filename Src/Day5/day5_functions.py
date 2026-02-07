@@ -10,9 +10,12 @@ def greet():
 greet()
 
 #using parameter
-def add(a,b):
-    return a+b
-result=add(4,5)
+def math(a,b):
+   sum=a+b;
+   diff=a-b;
+   return  sum,diff;
+result=math(4,5);
+
 print(result)
 
 #Global scope and local scope
@@ -31,6 +34,7 @@ print(math.sqrt(4))
 
 import random;
 print(random.uniform(10, 20))
+
 
 
 
