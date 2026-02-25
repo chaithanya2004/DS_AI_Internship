@@ -1,0 +1,38 @@
+# Introduction to Machine Learning
+
+## Types of Machine Learning
+
+### 1. Supervised Learning
+Data has labeled outputs.
+Example: Spam Detection, Student Marks Prediction
+
+### 2. Unsupervised Learning
+Data has no labels.
+Example: Customer Segmentation (Clustering)
+
+### 3. Reinforcement Learning
+Learning through rewards and penalties.
+Example: Game Playing AI
+
+---
+
+## Regression vs Classification
+
+Regression:
+- Output is continuous value
+- Example: Predicting Salary
+
+Classification:
+- Output is categorical
+- Example: Predicting Pass/Fail
+
+---
+
+## ML Workflow
+
+1. Data Collection
+2. Data Cleaning
+3. Feature-Label Separation
+4. Train-Test Split
+5. Model Training
+6. Evaluation
